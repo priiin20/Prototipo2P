@@ -1,0 +1,16 @@
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\Correr.exe.config
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\Correr.exe
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\Correr.pdb
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaVista.dll
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaModelo.dll
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaControlador.dll
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaVista.pdb
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaModelo.pdb
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\bin\Debug\CapaControlador.pdb
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.csprojAssemblyReference.cache
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.Properties.Resources.resources
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.csproj.GenerateResource.cache
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.csproj.CopyComplete
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.exe
+C:\Users\karen\Desktop\MVC EXAMEN PARCIAL2\Correr\Correr\Correr\obj\Debug\Correr.pdb
